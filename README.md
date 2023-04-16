@@ -22,12 +22,3 @@ Saya memiliki keahlian di bidang front-end developer
 
 | <a href="https://github.com/Haresz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Haresz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haresz's github stats" /></a> | <a href="https://github.com/Haresz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haresz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/Haresz/library-laravel">
-</a>
-
-<br />
-<br />
