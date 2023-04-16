@@ -1,4 +1,4 @@
-<p align="center">Halo saya haresz 👋</p>
+<h1>Halo saya haresz 👋</h1>
 
 <br />
 
