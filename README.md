@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Haresz">Halo saya haresz</a></p>
+<p align="center">Halo saya haresz 👋</p>
 
 <br />
 
