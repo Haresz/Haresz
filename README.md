@@ -27,7 +27,6 @@ Saya memiliki keahlian di bidang front-end developer
 
 
 <a href="https://github.com/Haresz/library-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haresz&repo=github-readme-stats&theme=buefy" />
 </a>
 
 <br />
