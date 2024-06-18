@@ -6,7 +6,7 @@
 
 - 📧 **Email:** muhammadharisal259@gmail.com
 - 📞 **Phone:** +6282225384814
-- 💼 **LinkedIn:** [linkedin.com]( https://www.linkedin.com/in/haris-fikri-75144b207/)
+- 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/haris-fikri-75144b207/)
 - 🖥️ **GitHub:** [github.com](https://github.com/Haresz)
 - 🌐 **Portfolio:** [click](https://haris-portofolio.vercel.app/)
 
