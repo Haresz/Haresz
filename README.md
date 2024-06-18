@@ -1,5 +1,3 @@
----
-
 ## Hi there! 👋 I'm Muhammad Haris Al Fikri
 
 **Front-End Web Developer | Highly driven, proficient in communication, teamwork, and management**
