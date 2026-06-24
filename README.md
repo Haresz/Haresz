@@ -1,94 +1,82 @@
-## Hi there! 👋 I'm Muhammad Haris Al Fikri
+# Hi, I'm Muhammad Haris Al Fikri 👋
 
-**Front-End Web Developer | Highly driven, proficient in communication, teamwork, and management**
+**Software Developer | Information Systems | Exploring Backend & Data**
 
-- 📧 **Email:** muhammadharisal259@gmail.com
-- 📞 **Phone:** +6282225384814
-- 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/haris-fikri-75144b207/)
-- 🖥️ **GitHub:** [github.com](https://github.com/Haresz)
-- 🌐 **Portfolio:** [click](https://haris-portofolio.vercel.app/)
+I build web applications with a frontend foundation and I'm actively expanding into backend development (Golang) and data-driven systems. Currently pursuing a degree in Information Systems while continuously building hands-on projects to deepen my technical range.
 
----
-
-### About Me
-
-I am a passionate front-end web developer with a keen eye for both aesthetics and functionality. I specialize in crafting engaging, responsive interfaces and am experienced in collaborative projects that require strong teamwork and managerial skills.
+📧 [muhammadharisal259@gmail.com](mailto:muhammadharisal259@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/haris-fikri-75144b207/)
+🌐 [Portfolio](https://haris-portofolio.vercel.app/)
 
 ---
 
-### Education
+## About Me
 
-**Software Engineering Graduate**  
-*SMK Telkom Purwokerto (2023)*  
-- Immersed in web and mobile app development.
-- Held leadership positions, including Student Council President.
-- Active in robotics clubs, enhancing problem-solving abilities.
-- Engaged in vibrant extracurricular activities and rigorous coursework.
+I'm a developer who enjoys building things end-to-end — from designing a clean, responsive interface to understanding what happens on the server side. My background started in frontend development, but I'm intentionally growing toward full-stack and backend engineering, with a particular interest in systems that handle real data: APIs, concurrent processing, and structured data pipelines.
 
-**Purwadhika Digital Technology School (2024)**  
-- Mastered web development tools: Express, Node.js, Redux, Next.js, React.js, and Tailwind CSS.
-- Proficient in core web technologies: JavaScript, HTML, and CSS.
-- Expertise in API integration using Axios and Fetch.
-- Experienced in testing with Cypress.js for reliable application performance.
-- Skilled in database management, particularly with MySQL.
+I learn best by building. Most of what's below started as a personal project or a coursework challenge that I pushed further than required, just to understand how it really works underneath.
 
 ---
 
-### Work Experience
+## What I'm Currently Working On
 
-**Frontend Web Developer (Internship) - PT. Cakra Radha Mustika (Kalbe Group)**  
-*April 2022 - March 2023*  
-- Completed assigned tasks as a frontend web developer intern.
-- Collaborated with other teams via GitLab.
-- Managed relationships with seniors and other team members.
-- Worked closely with UI/UX and backend teams.
+- 🔧 **Backend with Go (Golang)** — building REST APIs, a CLI load tester, and a concurrent web scraper to understand goroutines, channels, and systems-level thinking
+- 🎓 **Information Systems** — strengthening my foundation in data structures, databases, and systems analysis
+- 📈 **Data & analytics curiosity** — exploring how software and data intersect, particularly in analytics-driven decision making
 
 ---
 
-### Organizational Experience
+## Tech Stack
 
-**Chairman of the Telkom Purwokerto Vocational School OSIS**  
-*October 2021 - November 2022*  
-- Led a team of 50 students to plan and execute an annual school event.
-- Managed budgets and obtained sponsorships from local businesses.
-- Collaborated with teachers, staff, and external vendors.
+**Frontend**
+`JavaScript` `Typescript` `React.js` `Next.js` `Vue.js` `Tailwind CSS` `Bootstrap` `HTML` `CSS` `Svelte`
 
-**Telkom Purwokerto Vocational School OSIS Management**  
-*November 2019 - October 2021*  
-- Developed and implemented a year-long work plan.
-- Managed a team of 6 students and supervised over 10 events.
-- Developed strong communication and interpersonal skills.
+**Backend & Languages**
+`Golang`  `Node.js` `Express`
+
+**Database & Tools**
+`MySQL` `SQLite` `Git` `Axios` `Cypress.js`
 
 ---
 
-### Training & Certifications
+## Education
 
-- **Belajar Dasar Git dengan GitHub**: Dicoding Indonesia (2023)
-- **Belajar Membuat Front-End Web untuk Pemula**: Dicoding Indonesia (2022)
-- **Belajar Dasar Pemrograman Web**: Dicoding Indonesia (2022)
+**Universitas Terbuka** — *Sistem Informasi*
+Building a foundation in systems analysis, databases, and information management alongside hands-on development work.
 
----
+**Purwadhika Digital Technology School** — *2024*
+Intensive web development program covering Express, Node.js, Redux, Next.js, React.js, Tailwind CSS, and API integration.
 
-### Skills
-
-**Strengths:**  
-- Responsible
-- Communication
-- Time Management
-- Adaptive
-
-**Technical Skills:**  
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
+**SMK Telkom Purwokerto** — *Software Engineering, 2023*
+Foundation in web and mobile development. Served as Student Council President, leading a team of 50 students.
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/haris-fikri-75144b207/) or check out my [GitHub](https://github.com/Haresz) for more projects and collaborations. Let's build something amazing together! 🌟
+## Experience
+
+**WORK EXPERIENCE**
+
+**Frontend Engineer — Volantis Technology**
+*August 2024 – April 2026 (On-site)*
+
+- Contributed to measurable improvements in page load performance through legacy code migration to modern JavaScript/TypeScript.
+- Collaborated directly with C-level executives to align technical development with business goals, implemented Technical SEO strategies (SSR/Meta Tags) to improve organic search visibility.
+- Optimized web performance (Core Web Vitals), achieving a Google Lighthouse score of 90+ for performance and accessibility.
+- Developed scalable frontend architectures using Svelte & React, ensuring high-quality user interfaces that support complex user interactions.
+
+**Frontend Web Developer — PT. Cakra Radha Mustika**
+*April 2022 – March 2023 (Remote)*
+
+- Transformed complex UI/UX designs into pixel-perfect, responsive web applications using React & Next.js, ensuring 100% compatibility across mobile and desktop devices.
+- Integrated over 10+ RESTful APIs in close collaboration with the backend team to enable dynamic data visualization and seamless user flows.
+- Executed agile development cycles to deliver high-priority features on schedule, maintaining code quality through rigorous Git workflow and peer reviews.
+- Resolved critical frontend bugs and optimized asset loading, resulting in a smoother user experience and reduced bounce rates.
+
+---
+
+## Let's Connect
+
+I'm always open to collaborating on interesting projects or discussing software development, backend systems, and data. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/haris-fikri-75144b207/) or check out my [portfolio](https://haris-portofolio.vercel.app/).
 
 ---
 
