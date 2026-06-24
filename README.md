@@ -5,7 +5,7 @@
 I build web applications with a frontend foundation and I'm actively expanding into backend development (Golang) and data-driven systems. Currently pursuing a degree in Information Systems while continuously building hands-on projects to deepen my technical range.
 
 📧 [muhammadharisal259@gmail.com](mailto:muhammadharisal259@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/haris-fikri-75144b207/)
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-haris-al-fikri-75144b207/)
 🌐 [Portfolio](https://haris-portofolio.vercel.app/)
 
 ---
